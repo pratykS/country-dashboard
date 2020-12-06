@@ -1,3 +1,4 @@
+import React from "react";
 import { connect } from "react-redux";
 import { setType } from "../../store/actions";
 import * as styles from "./ToggleSwitch.css";

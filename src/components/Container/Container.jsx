@@ -1,3 +1,4 @@
+import React from "react";
 import InfoChart from "../InfoChart/InfoChart";
 import InfoGrid from "../InfoGrid/InfoGrid";
 import InfoTable from "../InfoTable/InfoTable";
